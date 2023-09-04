@@ -1,5 +1,9 @@
-.kitty {font-size: larger;} 
-.hello {font-size: larger;} 
+.kitty {
+    font-size: larger
+} 
+.hello {
+    font-size: larger
+} 
 
 body {
     background-color: lightpink;
