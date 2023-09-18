@@ -1,12 +1,24 @@
-.kitty {font-size: larger;} 
-.hello {font-size: larger;} 
-
-body {
-    background-color: pink;
+.kitty {
+    font-size: larger
+} 
+.hello {
+    font-size: larger
+} 
+.baby {
+    font-size: x-large;
 }
-
-<body> 
-    <header>
-<h1> Hello Kitty World body </h1>
-    </header>
-    <div>
+body {
+    font-style: initial;
+}
+.lulu {
+    font-style: italic;
+    font-size: larger;
+}
+.lua {
+    width: 20%;
+}
+.lista {
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
+}
